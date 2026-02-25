@@ -1,7 +1,8 @@
 body{
   font-family: Inter;
   margin: 0;
-  padding: 0
+  padding: 0;
+  background-color:#282D35
 }
 .header{
   text-align: center;
@@ -25,4 +26,22 @@ body{
   letter-spacing: -5%;
   line-height: 100%;
   font-size: 22px;
+}
+
+.mainHeader{
+  color: #FFFF;
+  font-weight: 700;
+  padding-left: 27px;
+  padding-top: 50px;
+  font-size: 40px;
+}
+
+li,ul{
+  color: white;
+  margin:20px;
+}
+
+li::marker{
+  color: #61DAFB;
+  font-size: 1.5rem;
 }
