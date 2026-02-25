@@ -1,7 +1,15 @@
- 
+import reactLogo from "./images/reactjs-icon.svg"
+
 function Navbar(){
   return(
-    <h1>Navbar goes here</h1>
+    <>
+      <header className="header">
+        <nav className="nav">
+        <img src={reactLogo} alt="react-logo" className="imageHeader"></img>
+        <p className="paragraphHeader">ReactFacts</p>
+        </nav>
+      </header>
+    </>
   )
 }
 

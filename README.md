@@ -1,3 +1,3 @@
 # Static Page Website
 
-Static-Page in React, configured with Vite
+A static React page built with Vite that showcases fun facts about React.
