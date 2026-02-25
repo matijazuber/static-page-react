@@ -2,7 +2,11 @@ body{
   font-family: Inter;
   margin: 0;
   padding: 0;
-  background-color:#282D35
+  background-color:#282D35;
+  background-image:url("../components/images/reactjs-icon\ 2.svg");
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+  
 }
 .header{
   text-align: center;
@@ -26,6 +30,10 @@ body{
   letter-spacing: -5%;
   line-height: 100%;
   font-size: 22px;
+}
+
+main{
+  margin-left: 15px;
 }
 
 .mainHeader{
