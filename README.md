@@ -2,4 +2,4 @@
 
 A static React page built with Vite that showcases fun facts about React.
 
-![ReactWebsiteImage](./ReactFacts-1.png)
+![ReactWebsiteImage](./components/images/ReactFacts-1.png)
